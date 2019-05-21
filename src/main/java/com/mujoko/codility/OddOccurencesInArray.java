@@ -4,9 +4,6 @@ import java.util.List;
 import java.util.HashMap;
 import java.util.ArrayList;
 
-/* Codility Lesson 2-1 Arrays 
- * @author Richard Kavanagh 21/02/18
- */
 public class OddOccurencesInArray {
 
 	public static void main(String[] args) {
